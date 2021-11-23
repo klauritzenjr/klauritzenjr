@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karl lauritzen jr
-- 👀 I’m interested in basbeall
+- 👀 I’m interested in basball
 - 🌱 I have never used Git before in my life. 
 - 💞️ I have been a developer since 1984 
 - 📫 How to reach me ...karl@rhpga.com
